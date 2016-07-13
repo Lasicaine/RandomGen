@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\bin\Debug\RandomGen.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\bin\Debug\RandomGen.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\obj\Debug\RandomGen.FormRand.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\obj\Debug\RandomGen.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\obj\Debug\RandomGen.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\obj\Debug\RandomGen.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\RandomGen\RandomGen\obj\Debug\RandomGen.pdb
